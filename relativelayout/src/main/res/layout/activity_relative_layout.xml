@@ -30,7 +30,7 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="38sp"
+        android:layout_height="38dp"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/imageView3"
         android:gravity="center_vertical|center_horizontal"
@@ -43,7 +43,7 @@
         android:id="@+id/imageView3"
         android:layout_width="match_parent"
         android:layout_height="287dp"
-        app:srcCompat="@drawable/PIC1" />
+        app:srcCompat="@drawable/pic1" />
 
     <Button
         android:id="@+id/button"
